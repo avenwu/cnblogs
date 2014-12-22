@@ -1,7 +1,9 @@
 Cnblogs(博客园)
 =======
 
-Cnblogs(博客园)Android客户端发布日志(https://www.cnblogs.com)
+Cnblogs(博客园)Android客户端发布日志  
+[Cnblogs Android](avenwu.github.io/cblogs)  
+[博客园官网www.cnblogs.com](https://www.cnblogs.com)  
 
 [![Get it on Google Play](http://www.android.com/images/brand/get_it_on_play_logo_small.png)](https://play.google.com/store/apps/details?id=com.avenwu.cnblogs)
 
@@ -13,7 +15,22 @@ Cnblogs(博客园)Android客户端发布日志(https://www.cnblogs.com)
 ----------
 
 ####v2.1.2
-bug修复小版本，提高应用稳定性
+bug修复小版本，提高应用稳定性  
+
+![Screenshot](https://github.com/avenwu/cnblogs/raw/master/v2.1.2/screenshot-v2.1.2-1.png)
+![Screenshot](https://github.com/avenwu/cnblogs/raw/master/v2.1.2/screenshot-v2.1.2-2.png)
+
+![Screenshot](https://github.com/avenwu/cnblogs/raw/master/v2.1.2/screenshot-v2.1.2-3.png)
+![Screenshot](https://github.com/avenwu/cnblogs/raw/master/v2.1.2/screenshot-v2.1.2-4.png)
+
+![Screenshot](https://github.com/avenwu/cnblogs/raw/master/v2.1.2/screenshot-v2.1.2-5.png)
+![Screenshot](https://github.com/avenwu/cnblogs/raw/master/v2.1.2/screenshot-v2.1.2-6.png)
+
+![Screenshot](https://github.com/avenwu/cnblogs/raw/master/v2.1.2/screenshot-v2.1.2-7.png)
+![Screenshot](https://github.com/avenwu/cnblogs/raw/master/v2.1.2/screenshot-v2.1.2-8.png)
+
+![Screenshot](https://github.com/avenwu/cnblogs/raw/master/v2.1.2/screenshot-v2.1.2-9.png)
+![Screenshot](https://github.com/avenwu/cnblogs/raw/master/v2.1.2/screenshot-v2.1.2-10.png)
 
 ####v2.1.1
 设备适配调整，调整账号保存机制以提高安全性
