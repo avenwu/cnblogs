@@ -1,8 +1,8 @@
 Cnblogs(博客园)
 =======
 
-Cnblogs(博客园)Android客户端发布日志  
-[Cnblogs Android](avenwu.github.io/cblogs)  
+Cnblogs(博客园)Android客户端发版日志  
+[http://avenwu.github.io/cnblogs/](http://avenwu.github.io/cnblogs/)  
 [博客园官网www.cnblogs.com](https://www.cnblogs.com)  
 
 [![Get it on Google Play](http://www.android.com/images/brand/get_it_on_play_logo_small.png)](https://play.google.com/store/apps/details?id=com.avenwu.cnblogs)
