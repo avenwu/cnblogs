@@ -13,6 +13,19 @@ Cnblogs(博客园)Android客户端发版日志
 
 
 ----------
+####v3.0.0
+
+>1. 添加博主搜素功能，快速搜索园友
+>2. 一键加关注，收藏喜欢的博主
+>3. 文章收藏，同步收藏文章，网站，手机两不误
+>4. 支持邮箱分享博客
+
+![Screenshot](v3.0.0/screenshot-v3.0.0-1.png)
+![Screenshot](v3.0.0/screenshot-v3.0.0-2.png)  
+![Screenshot](v3.0.0/screenshot-v3.0.0-3.png)
+![Screenshot](v3.0.0/screenshot-v3.0.0-4.png)  
+![Screenshot](v3.0.0/screenshot-v3.0.0-5.png)
+![Screenshot](v3.0.0/screenshot-v3.0.0-6.png)
 
 ####v2.1.2
 bug修复小版本，提高应用稳定性  
