@@ -1,8 +1,10 @@
 Cnblogs(博客园)
 =======
 
+	由于github访问不稳定，同时速度较慢，所有资源已搬迁至七牛
+
 Cnblogs(博客园)Android客户端发版日志  
-[http://avenwu.github.io/cnblogs/](http://avenwu.github.io/cnblogs/)  
+[avenwu.net/cnblogs/](avenwu.net/cnblogs/)  
 [博客园官网www.cnblogs.com](https://www.cnblogs.com)  
 
 [![Get it on Google Play](http://www.android.com/images/brand/get_it_on_play_logo_small.png)](https://play.google.com/store/apps/details?id=com.avenwu.cnblogs)
@@ -13,6 +15,11 @@ Cnblogs(博客园)Android客户端发版日志
 
 
 ----------
+####v3.1.0
+紧急修复博客园接口变更。
+
+    在使用过程中用户反馈新闻平路无法获取，经查，由博客园API接口调整导致，影响登录，新闻品论的获取，发表功能
+
 ####v3.0.0
 
 >1. 添加博主搜素功能，快速搜索园友
@@ -20,30 +27,30 @@ Cnblogs(博客园)Android客户端发版日志
 >3. 文章收藏，同步收藏文章，网站，手机两不误
 >4. 支持邮箱分享博客
 
-![Screenshot](v3.0.0/screenshot-v3.0.0-1.png)
-![Screenshot](v3.0.0/screenshot-v3.0.0-2.png)  
-![Screenshot](v3.0.0/screenshot-v3.0.0-3.png)
-![Screenshot](v3.0.0/screenshot-v3.0.0-4.png)  
-![Screenshot](v3.0.0/screenshot-v3.0.0-5.png)
-![Screenshot](v3.0.0/screenshot-v3.0.0-6.png)
+![Screenshot](http://7u2jir.com1.z0.glb.clouddn.com/v3.0.0/screenshot-v3.0.0-1.png)
+![Screenshot](http://7u2jir.com1.z0.glb.clouddn.com/v3.0.0/screenshot-v3.0.0-2.png)  
+![Screenshot](http://7u2jir.com1.z0.glb.clouddn.com/v3.0.0/screenshot-v3.0.0-3.png)
+![Screenshot](http://7u2jir.com1.z0.glb.clouddn.com/v3.0.0/screenshot-v3.0.0-4.png)  
+![Screenshot](http://7u2jir.com1.z0.glb.clouddn.com/v3.0.0/screenshot-v3.0.0-5.png)
+![Screenshot](http://7u2jir.com1.z0.glb.clouddn.com/v3.0.0/screenshot-v3.0.0-6.png)
 
 ####v2.1.2
 bug修复小版本，提高应用稳定性  
 
-![Screenshot](https://github.com/avenwu/cnblogs/raw/master/v2.1.2/screenshot-v2.1.2-1.png)
-![Screenshot](https://github.com/avenwu/cnblogs/raw/master/v2.1.2/screenshot-v2.1.2-2.png)
+![Screenshot](http://7u2jir.com1.z0.glb.clouddn.comv2.1.2/screenshot-v2.1.2-1.png)
+![Screenshot](http://7u2jir.com1.z0.glb.clouddn.com/v2.1.2/screenshot-v2.1.2-2.png)
 
-![Screenshot](https://github.com/avenwu/cnblogs/raw/master/v2.1.2/screenshot-v2.1.2-3.png)
-![Screenshot](https://github.com/avenwu/cnblogs/raw/master/v2.1.2/screenshot-v2.1.2-4.png)
+![Screenshot](http://7u2jir.com1.z0.glb.clouddn.com/v2.1.2/screenshot-v2.1.2-3.png)
+![Screenshot](http://7u2jir.com1.z0.glb.clouddn.com/v2.1.2/screenshot-v2.1.2-4.png)
 
-![Screenshot](https://github.com/avenwu/cnblogs/raw/master/v2.1.2/screenshot-v2.1.2-5.png)
-![Screenshot](https://github.com/avenwu/cnblogs/raw/master/v2.1.2/screenshot-v2.1.2-6.png)
+![Screenshot](http://7u2jir.com1.z0.glb.clouddn.com/v2.1.2/screenshot-v2.1.2-5.png)
+![Screenshot](http://7u2jir.com1.z0.glb.clouddn.com/v2.1.2/screenshot-v2.1.2-6.png)
 
-![Screenshot](https://github.com/avenwu/cnblogs/raw/master/v2.1.2/screenshot-v2.1.2-7.png)
-![Screenshot](https://github.com/avenwu/cnblogs/raw/master/v2.1.2/screenshot-v2.1.2-8.png)
+![Screenshot](http://7u2jir.com1.z0.glb.clouddn.com/v2.1.2/screenshot-v2.1.2-7.png)
+![Screenshot](http://7u2jir.com1.z0.glb.clouddn.com/v2.1.2/screenshot-v2.1.2-8.png)
 
-![Screenshot](https://github.com/avenwu/cnblogs/raw/master/v2.1.2/screenshot-v2.1.2-9.png)
-![Screenshot](https://github.com/avenwu/cnblogs/raw/master/v2.1.2/screenshot-v2.1.2-10.png)
+![Screenshot](http://7u2jir.com1.z0.glb.clouddn.com/v2.1.2/screenshot-v2.1.2-9.png)
+![Screenshot](http://7u2jir.com1.z0.glb.clouddn.com/v2.1.2/screenshot-v2.1.2-10.png)
 
 ####v2.1.1
 设备适配调整，调整账号保存机制以提高安全性
@@ -62,16 +69,16 @@ bug修复小版本，提高应用稳定性
 >3. 评论列表优化
 >4. Bug修复
 
-![Screenshot](https://github.com/avenwu/cnblogs/raw/master/v2.1.0/screenshot-v2.1.0-1.png)
-![Screenshot](https://github.com/avenwu/cnblogs/raw/master/v2.1.0/screenshot-v2.1.0-2.png)
+![Screenshot](http://7u2jir.com1.z0.glb.clouddn.com/v2.1.0/screenshot-v2.1.0-1.png)
+![Screenshot](http://7u2jir.com1.z0.glb.clouddn.com/v2.1.0/screenshot-v2.1.0-2.png)
 
-![Screenshot](https://github.com/avenwu/cnblogs/raw/master/v2.1.0/screenshot-v2.1.0-3.png)
-![Screenshot](https://github.com/avenwu/cnblogs/raw/master/v2.1.0/screenshot-v2.1.0-4.png)
+![Screenshot](http://7u2jir.com1.z0.glb.clouddn.com/v2.1.0/screenshot-v2.1.0-3.png)
+![Screenshot](http://7u2jir.com1.z0.glb.clouddn.com/v2.1.0/screenshot-v2.1.0-4.png)
 
-![Screenshot](https://github.com/avenwu/cnblogs/raw/master/v2.1.0/screenshot-v2.1.0-5.png)
-![Screenshot](https://github.com/avenwu/cnblogs/raw/master/v2.1.0/screenshot-v2.1.0-6.png)
+![Screenshot](http://7u2jir.com1.z0.glb.clouddn.com/v2.1.0/screenshot-v2.1.0-5.png)
+![Screenshot](http://7u2jir.com1.z0.glb.clouddn.com/v2.1.0/screenshot-v2.1.0-6.png)
 
-![Screenshot](https://github.com/avenwu/cnblogs/raw/master/v2.1.0/screenshot-v2.1.0-7.png)
+![Screenshot](http://7u2jir.com1.z0.glb.clouddn.com/v2.1.0/screenshot-v2.1.0-7.png)
 
 ####v2.0.0
 v2版支持用户登录及评论发表，这样在看到好的文章时，可以直接发表评论。
