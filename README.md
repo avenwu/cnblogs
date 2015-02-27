@@ -1,11 +1,11 @@
 Cnblogs(博客园)
 =======
 
+项目中涉及的一些好玩的东西已开源至Support项目，欢迎Star/Fork, 传送门[Support](https://github.com/avenwu/support)
+
 	由于github访问不稳定，同时速度较慢，所有资源已搬迁至七牛
 
-Cnblogs(博客园)Android客户端发版日志  
-[avenwu.net/cnblogs/](avenwu.net/cnblogs/)  
-[博客园官网www.cnblogs.com](https://www.cnblogs.com)  
+Cnblogs(博客园)Android项目官网[http://avenwu.net/cnblogs/](http://avenwu.net/cnblogs/)  
 
 [![Get it on Google Play](http://www.android.com/images/brand/get_it_on_play_logo_small.png)](https://play.google.com/store/apps/details?id=com.avenwu.cnblogs)
 
